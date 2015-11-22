@@ -1,9 +1,10 @@
-module Autobiography (autobiography) where
+module Component.Autobiography (autobiography) where
 
-import Html exposing (..)
+import Html exposing (div, Html)
 import Html.Attributes exposing (class)
-import Markdown exposing (..)
+import Markdown exposing (Options, defaultOptions)
 
+autobiography : Html
 autobiography =
   div [ class "autobio" ] [ content ]
 
@@ -11,6 +12,7 @@ options : Options
 options =
   { defaultOptions | smartypants = True }
 
+content : Html
 content = Markdown.toHtmlWith options """
 
 ## A Short Genealogy
