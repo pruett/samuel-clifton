@@ -1,4 +1,4 @@
-module Component.Obituary (obituary) where
+module Component.Obituary where
 
 import Html exposing (div, Html)
 import Html.Attributes exposing (class)

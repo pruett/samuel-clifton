@@ -1,4 +1,4 @@
-module Component.Autobiography (autobiography) where
+module Component.Autobiography where
 
 import Html exposing (div, Html)
 import Html.Attributes exposing (class)
