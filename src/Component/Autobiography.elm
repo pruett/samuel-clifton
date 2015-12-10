@@ -170,8 +170,6 @@ Finally, in the latter part of July, 1945, I was transferred to a base near Napl
 
 About two weeks before leaving Naples I had a three day rest leave on the Isle of Capri. It was a beautiful place - we stayed at an elegant hotel, had great food, visited the famous Blue Grotto, and danced to live music.
 
-21.
-
 The voyage on board a Liberty ship from Naples harbor to the New York harbor was a **very** slow process. As I recall it took us about two weeks. We arrived in New York City in late August of '45. Mom and grandma Homer met me at dockside and were they ever happy to see me and I them. It must have been about a year since we saw one another. My dad at that time was in a rehabilitation center being treated for depression. He had suffered from depression off and on for over two years. I’ll never forget the feeling I had when the ship passed the Statue of Liberty. Although I had visited it before on a couple
 of occasions, this time the sight of that statue had added significance. It meant freedom from oppression. I realized then how the immigrants, escaping from European oppression must have felt when they saw that wonderful statue.
 
