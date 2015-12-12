@@ -6,7 +6,7 @@ import Markdown exposing (Options, defaultOptions)
 
 autobiography : Html
 autobiography =
-  div [ class "autobio" ] [ content ]
+  div [ class "Autobiography" ] [ content ]
 
 options : Options
 options =
@@ -43,6 +43,12 @@ I was born on February 13, 1923, in a hospital in New York City by C—section. 
 We kept food in an ice box. Milk, bread, eggs, butter and pasteries were delivered by horse drawn wagons. The other staples were purchased at stores on Cedar Lane, a block and a half from our house. I still remember Mom listening to a crystal set radio, with ear phones of course, while she was ironing in the kitchen. Speaking of radios - when we finally purchased a conventional one the "gang," about six neighborhood boys, would take turns at one another's home and listen to such programs as Buck Rogers, Jack Armstrong, Dick Tracy and Little Orphan Annie. How we did look forward to listening to an hour of those serials just before dinner — especially in the winter time when it was cold and dark outside.
 
 Although my parents were proud of their one and only child, Mom, on many occasions, was rather reluctant to show me off when she was wheeling me down the street in my carriage. The reason was because between five months and five years of age, at times, I would break out with eczema and and my face would be covered with all kinds of different colored salves. I still remember Mom and Dad fastening corrugated cardboard sleeves around my elbows so that I couldn't bend my arms and scratch my face while sleeping. That wasn't the best solution because I would then rub my face in the pillows until they were bloody.
+
+<figure>
+  <a href="images/child.jpg" target="_blank">
+    <img src="images/child.jpg">
+  </a>
+</figure>
 
 Mom waited until I was six and a half years old before she would let me go to kindergarten. She wanted me to have all the fresh air and sunshine I could get before being cooped up in a school room. I remember the first day of kindergarten because I cried my heart out.
 
@@ -134,6 +140,12 @@ The months of June through October of 1944 were spent at Liberal, Kansas, learni
 In early November, 1944, I was assigned to a Replacement Training Unit base in Pueblo, Colorado. It was there that we formed our crews and flew as a combat crew team. A crew consisted of four officers - a pilot, co—pilot, navigator and bombardier and six enlisted men - a crew chief who was responsible for making sure that all equipment — mechanical, electrical and hydraulic — on board was operating satisfactorily, a radio man, ball turret gunner, tail gunner and two waist ganers. The training was similar to that at Liberal, Kansas, with one additional requirement - two 1,000 mile night cross country flights. Both times I headed south from Pueblo to Dallas, Texas, and both times I had an engine failure. No big deal because the other three engines operated normally. Each time the bad engine was repaired and back we flew to our base with no problem.
 
 The challenging part of my job as flight commander was to get ten men to work, cooperate with one another, and perform as a team. I had three problem crewmen. The co—pilot was about five years older than I and, he he had recently been divorced. He was not a happy camper and resented reporting to me, a younger man. My navigator, a southerner and an alcoholic, was really knowledgeable in his field and when sober he was an excellent navigator. However, you never knew when he would be drunk. He also loved the women — perhaps a little too much and too often. The radio operator was Jewish and did not take his job seriously enough to suit me. He worried a lot because we all knew that we were going to the European theatre and he was not looking forward to the possibility of being a German prisoner. His dog tags were stamped HR indicating Hebrew Religion. The other enlisted men told him if he was captured by the Germans he should just tell them that he was a Holy Roller.
+
+<figure>
+  <a href="images/squad.jpg" target="_blank">
+    <img src="images/squad.jpg">
+  </a>
+</figure>
 
 In early February, 1945, we flew from Pueblo to Wichita, Kansas, to pick up a brand new B—24, Model M, to fly to Europe. After a couple of days of checking the plane out to make sure all the equipment was operating properly, we departed Wichita for Bangor, Maine. We took off early in the morning when it was still dark. Then as dawn approached and our plane was near Springfield, Illinois, I heard the bomb bay doors open. That was not expected! Well it seems that this co-pilot of mine had to go to the bathroom and the facilities he required were non-existent on our plane or any Other military plane known to me. The relief tubes on the plane would not satisfy his needs. Get the picture? Being an ingenious soul he emptied the contents of his box lunch and used the box for what he had to do. Then he disposed of it through the open bomb bay doors. I could picture some poor farmer out in the fields or some worker on the early shift being hit with that box "lunch".
 

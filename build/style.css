@@ -1,0 +1,69 @@
+.Letter {
+  padding: 3rem 0;
+  background-color: #F1F1E5;
+}
+
+.Letter > div {
+  width: 85%;
+  max-width: 45rem;
+  margin: 0 auto;
+}
+
+/* Date */
+.Letter > div > p:first-child {
+  text-align: right;
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
+  font-size: 1rem;
+}
+
+.Letter blockquote {
+  margin: 0;
+  padding-left: 1rem;
+  border-left: 0.5rem solid #d8d8ca;
+}
+
+.Autobiography {
+  padding: 3rem 0;
+}
+
+.Autobiography > div {
+  width: 92.5%;
+  max-width: 40rem;
+  margin: 0 auto;
+}
+
+.Autobiography h2 {
+  border-top: 0.25rem solid #f1f1f1;
+  border-bottom: 0.25rem solid #f1f1f1;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 1rem 0;
+  text-align: center;
+  font-size: 1.25rem;
+}
+
+.Autobiography img {
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.Autobiography figcaption {
+  font-size: 0.85rem;
+  font-family: 'Oswald';
+  color: #A9A9A9;
+}
+
+.Obituary {
+  padding: 3rem 0;
+  background-color: #F1F1E5;
+}
+
+.Obituary > div {
+  width: 92.5%;
+  max-width: 60rem;
+  margin: 0 auto;
+  font-size: 1rem;
+  font-family: 'Oswald';
+}
+

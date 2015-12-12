@@ -6,7 +6,7 @@ import Markdown exposing (Options, defaultOptions)
 
 obituary : Html
 obituary =
-  div [ class "obituary" ] [ content ]
+  div [ class "Obituary" ] [ content ]
 
 options : Options
 options =
