@@ -10,7 +10,15 @@
     <link rel="stylesheet" href="style.css">
 
     <style>
-      html { font-size: 115%; }
+      html { font-size: 85%; }
+
+      @media (min-width: 50em) {
+        html { font-size: 105%; }
+      }
+
+      @media (min-width: 63em) {
+        html { font-size: 115%; }
+      }
 
       body {
         margin: 0;
@@ -42,7 +50,7 @@
         bottom: 0;
         left: 0;
         right: 0;
-        background-color: rgba(0,0,0,0.75)
+        background-color: rgba(0,0,0,0.35)
       }
 
       h2, .vi-content {
@@ -62,10 +70,45 @@
         margin: auto;
         color: #fff;
         font-size: 1.35rem;
-        letter-spacing: .05rem;
+        letter-spacing: .15rem;
         text-transform: uppercase;
         -webkit-font-smoothing: antialiased;
+        text-shadow: 0 2px 8px rgba(0,0,0,0.85);
       }
+
+      .vi-content .rank {
+        font-size: 1.5rem;
+      }
+
+      @media (min-width: 50em) {
+        .vi-content .rank {
+          font-size: 1.75rem;
+        }
+      }
+
+      @media (min-width: 50em) {
+        .vi-content .rank {
+          font-size: 2rem;
+        }
+      }
+
+      .vi-content .name {
+        font-size: 2.5rem;
+        letter-spacing: 0.65rem;
+      }
+
+      @media (min-width: 50em) {
+        .vi-content .name {
+          font-size: 3.5rem;
+        }
+      }
+
+      @media (min-width: 63rem) {
+        .vi-content .name {
+          font-size: 4rem;
+        }
+      }
+
     </style>
   </head>
 
@@ -82,7 +125,7 @@
             Samuel Clifton Pruett
           </span>
         </h1>
-        <p>tagline here</p>
+        <p>1923&nbsp;&mdash;&nbsp;2010</p>
       </div>
     </header>
     <div id="App"></div>

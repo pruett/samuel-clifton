@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "gulp"
+    "start": "gulp",
+    "build": "gulp build; surge -p build -d samuelclifton.surge.sh"
   },
   "repository": {
     "type": "git",
@@ -14,6 +15,7 @@
   "homepage": "https://github.com/pruett/samuel-clifton#readme",
   "devDependencies": {
     "gulp": "^3.9.0",
-    "gulp-elm": "^0.2.0"
+    "gulp-elm": "^0.2.0",
+    "surge": "^0.17.4"
   }
 }

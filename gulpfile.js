@@ -18,3 +18,4 @@ gulp.task('watch', function () {
 })
 
 gulp.task('default', ['elm', 'watch'])
+gulp.task('build', ['elm'])
