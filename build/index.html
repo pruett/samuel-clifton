@@ -33,24 +33,20 @@
         font-weight: 700;
       }
 
-      img { max-width: 100%; }
+      img {
+        max-width: 100%;
+        box-shadow: 1px 1px 10px rgba(0,0,0,0.45);
+      }
+
+      img:hover { box-shadow: 2px 2px 8px rgba(0,0,0,0.65); }
 
       svg { max-height: 100%; }
 
       .VisualIntro {
-        background: url('images/profile.jpg') no-repeat center 10%;
+        background: #FFFEF1 url('images/profile.jpg') no-repeat center 10%;
         background-size: cover;
         height: 85rem;
         position: relative;
-      }
-
-      .vi-mask {
-        position: absolute;
-        top: 0;
-        bottom: 0;
-        left: 0;
-        right: 0;
-        background-color: rgba(0,0,0,0.35)
       }
 
       h2, .vi-content {
@@ -135,7 +131,6 @@
 
   <body>
     <header class="VisualIntro">
-      <div class="vi-mask"></div>
       <div class="vi-content">
         <h1>
           <span class="rank">
