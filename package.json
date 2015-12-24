@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "start": "gulp",
-    "build": "gulp build; surge -p build -d samuelclifton.surge.sh"
+    "build": "gulp build; surge -p build -d samuelcliftonpruett.com"
   },
   "repository": {
     "type": "git",

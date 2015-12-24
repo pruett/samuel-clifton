@@ -109,6 +109,27 @@
         }
       }
 
+      .ImageGallery {
+        margin: 0;
+        padding: 3rem 3%;
+        text-align: center;
+        width: 100%;
+        box-sizing: border-box;
+      }
+
+      .ImageGallery:after {
+        content: '';
+        display: table;
+        clear: both;
+      }
+
+      .ig-item {
+        list-style: none;
+        display: inline-block;
+        width: 48%;
+        box-sizing: border-box;
+        padding: 2rem 3%;
+      }
     </style>
   </head>
 
@@ -129,6 +150,17 @@
       </div>
     </header>
     <div id="App"></div>
+
+    <ul class="ImageGallery">
+      <li class="ig-item"><a href="images/craig.jpg"><img class="ig-image" src="images/craig.jpg" /></a></li>
+      <li class="ig-item"><a href="images/cockpit.jpg"><img class="ig-image" src="images/cockpit.jpg" /></a></li>
+      <li class="ig-item"><a href="images/family.jpg"><img class="ig-image" src="images/family.jpg" /></a></li>
+      <li class="ig-item"><a href="images/portrait.jpg"><img class="ig-image" src="images/portrait.jpg" /></a></li>
+      <li class="ig-item"><a href="images/sandee-doug.jpg"><img class="ig-image" src="images/sandee-doug.jpg" /></a></li>
+      <li class="ig-item"><a href="images/table.jpg"><img class="ig-image" src="images/table.jpg" /></a></li>
+      <li class="ig-item"><a href="images/nana.jpg"><img class="ig-image" src="images/nana.jpg" /></a></li>
+    </ul>
+
     <script>Elm.embed(Elm.Main, document.getElementById('App'))</script>
   </body>
 </html>
