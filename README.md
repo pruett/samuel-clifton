@@ -18,3 +18,14 @@ What you’ll see is an unedited transcription of his unfinished autobiography. 
 
 Happy Holidays,
 Kevin Pruett
+
+## Development
+
+- `npm i`
+- `elm reactor` (one tab)
+- `npm start` (another tab)
+- `open localhost:8000/build/index.html` (manual refresh required)
+
+## Deploy
+
+- `npm run build`
